@@ -1,0 +1,13 @@
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\PassingActivities.dll
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\PassingActivities.pdb
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\obj\Debug\SplashScreen.xaml.g.cs
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\obj\Debug\PassingActivities.dll
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\obj\Debug\PassingActivities.pdb
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\obj\Debug\PassingActivities.dll.mdb
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\PassingActivities.dll.mdb
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\obj\Debug\PassingActivities.dll.mdb
+C:\Projects\C-Sharp_Stuff\Xamarin\Xamarin.Forms\PassingActivities\PassingActivities\PassingActivities\bin\Debug\PassingActivities.dll.mdb
