@@ -1,0 +1,7 @@
+c:\users\david.ochoa\documents\visual studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\David.ochoa\Documents\Visual Studio 2013\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

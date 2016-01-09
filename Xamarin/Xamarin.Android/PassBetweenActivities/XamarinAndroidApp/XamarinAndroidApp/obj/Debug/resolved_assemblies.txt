@@ -1,0 +1,7 @@
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\XamarinAndroidApp.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\Mono.Android.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\mscorlib.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\System.Core.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\System.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\System.Xml.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\assemblies\System.Xml.Linq.dll

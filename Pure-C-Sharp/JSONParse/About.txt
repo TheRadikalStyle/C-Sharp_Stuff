@@ -1,0 +1,3 @@
+App de consola
+
+Analiza un objeto JSON creado desde el codigo

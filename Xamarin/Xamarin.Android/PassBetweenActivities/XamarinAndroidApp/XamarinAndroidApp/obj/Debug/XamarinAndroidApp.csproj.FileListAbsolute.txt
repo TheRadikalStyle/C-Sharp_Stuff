@@ -1,0 +1,14 @@
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\bin\Debug\XamarinAndroidApp.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\bin\Debug\XamarinAndroidApp.pdb
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\bin\Debug\XamarinAndroidApp.XamarinAndroidApp.apk
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\bin\Debug\XamarinAndroidApp.XamarinAndroidApp-Signed.apk
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\XamarinAndroidApp.csprojResolveAssemblyReference.cache
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\XamarinAndroidApp.dll
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\XamarinAndroidApp.pdb
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\android\bin\XamarinAndroidApp.XamarinAndroidApp.apk
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\res\layout\secondary.xml
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\res\layout\main.xml
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\res\values\strings.xml
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\res\drawable\icon.png
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\R.cs.flag
+c:\users\david.ochoa\documents\visual studio 2013\Projects\XamarinAndroidApp\XamarinAndroidApp\obj\Debug\uploadflags.txt
