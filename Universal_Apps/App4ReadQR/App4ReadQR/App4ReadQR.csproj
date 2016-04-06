@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F7E0A167-A55E-4F70-AAAB-C7CCEF608A73}</ProjectGuid>
+    <ProjectGuid>{FCABC16B-3DAC-4A74-BA1A-9BF37A3A94BA}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>App4ReadQR</RootNamespace>

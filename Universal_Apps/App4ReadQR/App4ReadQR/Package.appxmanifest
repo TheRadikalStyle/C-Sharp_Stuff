@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="a84101a9-95e6-400a-aa71-529f29ab4581"
+    Name="5168eebc-7795-486a-b19c-57685258fd97"
     Publisher="CN=David"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="a84101a9-95e6-400a-aa71-529f29ab4581" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="5168eebc-7795-486a-b19c-57685258fd97" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>App4ReadQR</DisplayName>
